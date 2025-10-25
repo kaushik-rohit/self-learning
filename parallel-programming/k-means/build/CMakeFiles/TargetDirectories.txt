@@ -1,0 +1,6 @@
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/kmeans.dir
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/kmeans_app.dir
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/test_kmeans.dir
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/test.dir
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/edit_cache.dir
+/Users/kaushrk/projects/self-learning/parallel-programming/k-means/build/CMakeFiles/rebuild_cache.dir
