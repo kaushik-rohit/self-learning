@@ -1,3 +1,0 @@
-/Users/kaushrk/projects/self-learning/parallel-programming/image-processing/build/CMakeFiles/image_app.dir
-/Users/kaushrk/projects/self-learning/parallel-programming/image-processing/build/CMakeFiles/edit_cache.dir
-/Users/kaushrk/projects/self-learning/parallel-programming/image-processing/build/CMakeFiles/rebuild_cache.dir
